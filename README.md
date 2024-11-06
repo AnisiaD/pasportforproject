@@ -1,1 +1,1 @@
-https://github.com/AnisiaD/pasportforproject.git
+https://anisiad.github.io/pasportforproject/
